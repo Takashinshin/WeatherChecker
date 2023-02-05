@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WeatherChecker</string>
+    <string name="chose_text">地域を選択してください</string>
+    <string name="get">取得</string>
 </resources>

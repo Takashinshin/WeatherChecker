@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_list">
+        <item>Hokkaido</item>
+        <item>Miyagi</item>
+        <item>Ishikawa</item>
+        <item>Tokyo</item>
+        <item>Nagoya</item>
+        <item>Osaka</item>
+        <item>Kobe</item>
+        <item>Hiroshima</item>
+        <item>kagawa</item>
+        <item>Fukuoka</item>
+        <item>Okinawa</item>
+    </string-array>
+</resources>
